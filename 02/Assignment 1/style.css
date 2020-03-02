@@ -1,0 +1,25 @@
+#content {
+  max-width: 960px;
+  margin: auto; 
+}
+
+#context {
+  max-width: 960px;
+  margin: auto;
+}
+
+table {
+    width: 100%
+}
+
+table th, td {
+    text-align: left;
+}
+
+.holidays {
+    font-style: italic; 
+}
+
+.exercise {
+    font-weight: bold;
+}
